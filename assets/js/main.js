@@ -35,12 +35,30 @@ var prod4 = {
     price: 'MXN 4,070.16',
     priceoff: ''
 };
+var prod5 = {
+    desc: 'black',
+    desctext: 'Envio gratis',
+    img: "https://media.musiciansfriend.com/is/image/MMGS7/O120CESB-Auditorium-Acoustic-Electric-Guitar-3-Color-Sunburst/J51473000001000-00-400x400.jpg",
+    name: 'SMitchell O120CESB Auditorium Acoustic-Electric Guitar',
+    price: 'MXN 4,070.16',
+    priceoff: ''
+};
+var prod6 = {
+    desc: 'black',
+    desctext: 'Envio gratis',
+    img: "https://media.musiciansfriend.com/is/image/MMGS7/O120CESB-Auditorium-Acoustic-Electric-Guitar-3-Color-Sunburst/J51473000001000-00-400x400.jpg",
+    name: 'SMitchell O120CESB Auditorium Acoustic-Electric Guitar',
+    price: 'MXN 4,070.16',
+    priceoff: ''
+};
 
 var objectProductos = [
     prod,
     prod2,
     prod3,
-    prod4
+    prod4,
+    prod5,
+    prod6
 ]
 
 
